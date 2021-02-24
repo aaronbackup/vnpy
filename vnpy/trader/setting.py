@@ -23,10 +23,9 @@ SETTINGS: Dict[str, Any] = {
     "email.password": "",
     "email.sender": "",
     "email.receiver": "",
-
-    "rqdata.username": "",
-    "rqdata.password": "",
-
+    "rqdata.username": "17512081226",
+    "rqdata.password": "lhjmj666",
+    "tsdata.token": "c3f87035d1bdaf8d946f8eca7e0de867e9ef30a40dc226973f44762f",
     "database.timezone": get_localzone().zone,
     "database.driver": "sqlite",                # see database.Driver
     "database.database": "database.db",         # for sqlite, use this as filepath
